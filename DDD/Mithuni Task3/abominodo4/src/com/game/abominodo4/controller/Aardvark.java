@@ -1,4 +1,4 @@
-package com.game.abominodo4.controller
+package com.game.abominodo4.controller;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
